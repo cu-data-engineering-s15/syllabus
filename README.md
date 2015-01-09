@@ -1,4 +1,4 @@
-# Syllabus &mdash; Data Engineering &mdash; Spring 2015
+# Syllabus &mdash; Data Engineering &mdash; S15
 
 Syllabus for the Spring 2015 Data Engineering class at CU Boulder
 by Prof. Ken Anderson
