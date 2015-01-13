@@ -51,3 +51,17 @@ invoke `View->Developer->Developer Tools`.
 
 - All of these instructions will be reviewed during the first day of
 lecture.
+
+## Learning Git
+
+We will be using the Git version control system heavily this semester. I will be covering Git in class but there are plenty of excellent resources on the web to learn more. In particular, the company that creates the application [Tower](http://www.git-tower.com), has an excellent set of resources for learning Git.
+
+- [Learn Version Control with Git](http://www.git-tower.com/learn/)
+- [Video Tutorials](http://www.git-tower.com/learn/videos)
+
+## Learning GitHub
+
+We will also be making heavy use of GitHub and so I'll be covering it as well in class. As with Git, there are many resources available on-line to get up to speed with GitHub's features. Here are some pointers to get started:
+
+- [GitHub's Documentation](https://help.github.com)
+- [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
