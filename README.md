@@ -45,6 +45,12 @@ a Mac, the easiest way to install node is via [Homebrew](brew.sh). Simply
 install Homebrew and then enter the command `brew install node`. The
 latest verion of node as of January 2015 is 0.10.35.
 
+- A version of curl should be installed on your machine. curl is a very useful
+utility for interacting with web services. If you have a Mac, curl should already
+be installed in `/usr/bin`. For other platforms, head over to
+(the curl website)[http://curl.haxx.se/download.html] to download and install
+the software.
+
 - Finally, you should be comfortable invoking the developer tools for
 your favorite web browser. Within Chrome, simply open a window and then
 invoke `View->Developer->Developer Tools`.
